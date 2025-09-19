@@ -53,8 +53,7 @@ jupyter notebook src/face_recognition_main.ipynb
 ```
 Face-Recognition-System/
 ├── src/                    # Source code and notebooks
-├── data/                   # Dataset and sample images
+├── images/                   # Flowchart
 ├── docs/                   # Documentation and reports
-├── models/                 # Trained model files
 └── README.md              # Project documentation
 ```
